@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "odd_Printing",
+      "request": "launch",
+      "mainClass": "odd_Printing",
+      "projectName": "Java_538d9bb"
+    },
+    {
+      "type": "java",
       "name": "Sum",
       "request": "launch",
       "mainClass": "Sum",
