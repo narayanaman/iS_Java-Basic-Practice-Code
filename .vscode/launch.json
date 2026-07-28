@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Arithmatic_N_Term",
+      "request": "launch",
+      "mainClass": "Arithmatic_N_Term",
+      "projectName": "Java_538d9bb"
+    },
+    {
+      "type": "java",
       "name": "odd_Printing",
       "request": "launch",
       "mainClass": "odd_Printing",
