@@ -21,6 +21,7 @@ public class isShiftClock {
         int []temp =new int [n];
         for(int i=0; i<n; i++){
             temp[(i+d)%n]=arr[i];
+            // 2%5 = ?
         }
         System.out.println("Printing array after shift :");
         for(int i=0; i<n; i++){
