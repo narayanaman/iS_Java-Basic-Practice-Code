@@ -6,7 +6,7 @@ class Books{
         String title="Gita";
         int price=250;
 
-        System.out.println("Title :"+title);
+        System.out.println("Title  :"+title);
         System.out.println("Price :"+price);
 
     }
